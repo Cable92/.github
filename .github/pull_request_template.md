@@ -1,30 +1,23 @@
 ## Describe the changes ✍🏼
-
 <!--
 Summary of the changes and components affected by this PR in the codebase. (This shouldn't be a commmit list or the issue description)
-
 Ex:
 - Refactor the order of the imports following the standard
 - Add a new service that...
 -->
 
 ## For testing/QA 🔎
-
 <!--
-Describe how to test the changes of this PR (Write this with QA in mind).
-
+Describe how to test the changes of this PR (Write this with QA in mind). Discribe previous and new behaviour.
 Ex:
 - Run the App, go to the ... page and check ...
-- It should meet the following conditions ...
-- Call the ... endpoint with the following params... Check that...
+- Call the ... endpoint with the following params... Now it should return...
 -->
 
 ## Todo's 📄 <!--(optional)-->
-
 <!-- Link here any new issues that might've come up when developing this code. -->
 
 ## Pull request type 🧐
-
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
 
 Please check the type of change your PR introduces:
@@ -42,7 +35,7 @@ Please select the type of commmit for the PR
 - [ ] Squash & Merge
 - [ ] Merge (epic/release/hotifx/epic)
 
-## Checklist ✅ <!--(Don't delete)-->
+## Checklist ✅ <!--(Don't delete!)-->
 
 - [ ] The PR name follows the standards
 - [ ] I've added Tests for the code introduced on the PR
