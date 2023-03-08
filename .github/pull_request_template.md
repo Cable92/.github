@@ -1,6 +1,6 @@
 ## Describe the changes ✍🏼
 <!--
-Summary of the changes and components affected by this PR in the codebase. (This shouldn't be a commmit list or the issue description)
+Summary of the changes and components affected by this PR in the codebase. (This shouldn't be a commit list or the issue description)
 Ex:
 - Refactor the order of the imports following the standard
 - Add a new service that...
@@ -33,7 +33,7 @@ Please check the type of change your PR introduces:
 Please select the type of commmit for the PR
 
 - [ ] Squash & Merge
-- [ ] Merge (epic/release/hotifx/epic)
+- [ ] Merge (epic/release/hotfix/epic)
 
 ## Checklist ✅ <!--(Don't delete!)-->
 
