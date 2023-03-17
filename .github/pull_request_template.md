@@ -8,7 +8,7 @@ Ex:
 
 ## For testing/QA 🔎
 <!--
-Describe how to test the changes of this PR (Write this with QA in mind). Discribe previous and new behaviour.
+Describe how to test the changes of this PR (Write this with QA in mind). Describe previous and new behaviour.
 Ex:
 - Run the App, go to the ... page and check ...
 - Call the ... endpoint with the following params... Now it should return...
@@ -19,7 +19,6 @@ Ex:
 
 ## Pull request type 🧐
 <!-- Please try to limit your pull request to one type, submit multiple pull requests if needed. -->
-
 Please check the type of change your PR introduces:
 
 - [ ] fix: Bugfix
@@ -30,12 +29,12 @@ Please check the type of change your PR introduces:
 - [ ] docs: Documentation content changes
 - [ ] chore: Other (please describe)
 
-Please select the type of commmit for the PR
+Please select the type of commit for the PR
 
 - [ ] Squash & Merge
 - [ ] Merge (epic/release/hotfix/epic)
 
-## Checklist ✅ <!--(Don't delete!)-->
+## Checklist ✅ <!--(Don't delete! This is a reminder for the PR creator)-->
 
 - [ ] The PR name follows the standards
 - [ ] I've added Tests for the code introduced on the PR
@@ -43,7 +42,7 @@ Please select the type of commmit for the PR
 - [ ] I've added necessary documentation (if appropriate)
 - [ ] Link the related issue on ZenHub
 - [ ] Add reviewers
-- [ ] I'm confident about what I'm submmitting (Commits, File changes, PR description)
+- [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
 
 ```
 feat: Add some cool functionality (#10)
