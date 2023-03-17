@@ -42,7 +42,7 @@ Please select the type of commit for the PR
 - [ ] I've added necessary documentation (if appropriate)
 - [ ] Link the related issue on ZenHub
 - [ ] Add reviewers
-- [ ] I'm confident about what I'm submmitting (Commits, File changes, PR description)
+- [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
 
 ```
 feat: Add some cool functionality (#10)
