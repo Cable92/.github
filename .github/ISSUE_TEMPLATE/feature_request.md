@@ -8,25 +8,25 @@ assignees: ""
 
 ## :notebook_with_decorative_cover: Description and context
 
-_User story, general description of the feature_
+<!-- User story, general description of the feature -->
 
 ### Product Specification
 
-_Interaction, acceptance criteria, figma link_
+<!-- Interaction, acceptance criteria, figma link -->
 
 ## :computer: Technical
 
 #### :exclamation: Complexity
 
-_What is the most complex part of the issue?_
+<!-- What is the most complex part of the issue? -->
 
 #### :grey_exclamation: Impact
 
-_Affected (processes, endpoints, pages, libs etc), errors, context, related refactors_
+<!-- Affected (processes, endpoints, pages, libs etc), errors, context, related refactors -->
 
 #### :grey_question: Uncertainty
 
-_Research needed, implementation doubts_
+<!-- Research needed, implementation doubts -->
 
 ## Checklist
 
