@@ -3,7 +3,7 @@ name: Incident
 about: Incident report
 title: "[INCIDENT]: "
 labels: incident
-assignees: "davidovm,bryan-elder"
+assignees: "davidovm,rtimoshenko"
 ---
 
 ## Incident description and context
