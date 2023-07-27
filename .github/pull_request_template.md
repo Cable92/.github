@@ -31,8 +31,8 @@ Please check the type of change your PR introduces:
 
 Please select the type of commit for the PR
 
-- [ ] Squash & Merge
-- [ ] Merge (epic/release/hotfix/epic)
+- [ ] Squash (feature -> epic/development)
+- [ ] Merge (epic -> development, hotfix -> main, release -> main)
 
 ## Checklist ✅ <!--(Don't delete! This is a reminder for the PR creator)-->
 
