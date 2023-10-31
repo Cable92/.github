@@ -40,7 +40,7 @@ Please select the type of commit for the PR
 - [ ] I've added Tests for the code introduced on the PR
 - [ ] I've passed Tests, Linter, Prettier and Typescript Compiler locally
 - [ ] I've added necessary documentation (if appropriate)
-- [ ] Link the related issue on ZenHub
+- [ ] I've included the Jira issue number in the branch name (BO-***)
 - [ ] Add reviewers
 - [ ] I'm confident about what I'm submitting (Commits, File changes, PR description)
 
